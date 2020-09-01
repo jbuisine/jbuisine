@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**jbuisine/jbuisine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I’m a passionate IT student in PhD. I’m fond of computer sciences and particularly domains of Artificial Intelligence and Operations Research. I read a lot of books during my free time and sometimes collaborate into the IT free world. My goal is to continue in this vast domain of IT research.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Interests:
+- Artificial Intelligence
+- Machine learning
+- Deep learning
+- Computer graphics
+- Operations Research
+
+:link: Links:
+-  :computer: -- [jeromebuisine.fr](https://jeromebuisine.fr)
+-  :bird: -- [twitter](https://twitter.com/JeromeBuisine)

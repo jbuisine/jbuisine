@@ -11,5 +11,5 @@ I’m a passionate PhD student in IT. I’m fond of computer sciences and partic
 - :chart_with_downwards_trend: -- Operations Research
 
 :link: Links:
--  :earth_africa: -- [http://jeromebuisine.fr](https://jeromebuisine.fr)
+-  :earth_africa: -- [https://jeromebuisine.fr](https://jeromebuisine.fr)
 -  :bird: -- [ @JeromeBuisine](https://twitter.com/JeromeBuisine)

@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I’m a passionate PhD student in IT. I’m fond of computer sciences and particularly domains of Artificial Intelligence, Computer Graphics and Operations Research. Sometimes collaborate into the IT free world. My goal is to continue in this vast domain of IT research.
+I’m a passionate PhD Student in IT. I’m fond of computer sciences and particularly domains of Artificial Intelligence, Computer Graphics and Operations Research. Sometimes collaborate into the IT free world. My goal is to continue in these vast domains of IT research.
 
 :notebook_with_decorative_cover: **Interests:**
 - :robot:  -- Artificial Intelligence

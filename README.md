@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I’m a passionate PhD Student in IT. I’m fond of computer sciences and particularly domains of Artificial Intelligence, Computer Graphics and Operations Research. Sometimes collaborate into the IT free world. My goal is to continue in these vast domains of IT research.
+I’m a passionate PhD student in IT. My research work is mainly focused on Noise perception of physically based rendering synthesis images (Monte Carlo approach) using machine learning. I also work on underlying topics such as statistics extractions combined with deep learning methods for image denoising and the use of Surrogate models inside operations research process for features selection.
 
 :notebook_with_decorative_cover: **Interests:**
 - :robot:  -- Artificial Intelligence

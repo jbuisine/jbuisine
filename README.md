@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[<img align="center" alt="top.png" src="https://jeromebuisine.fr/img/others/top.png" />]()
+[<img align="center" alt="top.png" src="https://jeromebuisine.fr/img/others/top_v2.png" />]()
 
 I’m a passionate PhD student in IT. My research work is mainly focused on Noise perception of physically based rendering synthesis images (Monte Carlo approach) using machine learning. I also work on underlying topics such as statistics extractions combined with deep learning methods for image denoising and the use of Surrogate models inside operations research process for features selection.
 
@@ -17,5 +17,5 @@ I’m a passionate PhD student in IT. My research work is mainly focused on Nois
 -  [<img align="left" alt="codeSTACKr | Twitter" width="19px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]() -- [@JeromeBuisine](https://twitter.com/JeromeBuisine)
 - [<img align="left" alt="codeSTACKr | Medium" width="19px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />]() -- [@hamnexik](https://hamnexik.medium.com/)
 
-[<img align="center" alt="bottom.png" src="https://jeromebuisine.fr/img/others/bottom.png" />]()
+[<img align="center" alt="bottom.png" src="https://jeromebuisine.fr/img/others/bottom_v2.png" />]()
 

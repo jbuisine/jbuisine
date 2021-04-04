@@ -6,7 +6,6 @@ I’m a passionate PhD student in IT. My research work is mainly focused on Nois
 
 :notebook_with_decorative_cover: **Interests:**
 - :bar_chart:  -- Machine learning
-- :brain:  -- Deep learning
 - :art:  -- Computer graphics
 - :chart_with_downwards_trend:  -- Operations Research
 

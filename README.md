@@ -1,7 +1,6 @@
-### Hi there 👋
-
-
 [<img align="center" alt="top.png" src="https://jeromebuisine.fr/img/others/top_v3.png" />]()
+
+#### Hi there 👋
 
 I’m a passionate PhD student in IT. My research work is mainly focused on Noise perception of physically based rendering synthesis images (Monte Carlo approach) using machine learning. I also work on underlying topics such as statistics extractions combined with deep learning methods for image denoising and the use of Surrogate models inside operations research process for features selection.
 

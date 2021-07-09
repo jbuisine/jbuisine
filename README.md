@@ -10,9 +10,9 @@ I’m a passionate PhD student in IT. My research work is mainly focused on Nois
 - :chart_with_downwards_trend:  -- Operations Research
 
 :link: **Links:**
--  [<img align="left" alt="codeSTACKr.com" width="19px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]() -- [https://jeromebuisine.fr](https://jeromebuisine.fr)
--  [<img align="left" alt="codeSTACKr | Twitter" width="19px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]() -- [@JeromeBuisine](https://twitter.com/JeromeBuisine)
-- [<img align="left" alt="codeSTACKr | Medium" width="19px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />]() -- [@hamnexik](https://hamnexik.medium.com/)
+-  [<img align="left" alt="codeSTACKr.com" width="19" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]() -- [https://jeromebuisine.fr](https://jeromebuisine.fr)
+-  [<img align="left" alt="codeSTACKr | Twitter" width="19" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]() -- [@JeromeBuisine](https://twitter.com/JeromeBuisine)
+- [<img align="left" alt="codeSTACKr | Medium" width="19" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />]() -- [@hamnexik](https://hamnexik.medium.com/)
 
 [<img align="center" alt="bottom.png" src="https://jeromebuisine.fr/img/others/bottom_v3.png" />]()
 

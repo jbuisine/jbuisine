@@ -1,4 +1,4 @@
-[<img align="center" alt="top.png" src="https://jeromebuisine.fr/img/others/top_v3.png" />]()
+[<img align="center" alt="top.png" src="https://jeromebuisine.fr/images/others/top_v4.png" />]()
 
 #### Hi there 👋
 
@@ -14,5 +14,5 @@ I’m a passionate PhD in IT. My research work is mainly focused on Noise percep
 -  [<img align="left" alt="codeSTACKr | Twitter" width="19" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]() -- [@JeromeBuisine](https://twitter.com/JeromeBuisine)
 - [<img align="left" alt="codeSTACKr | Medium" width="19" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />]() -- [@hamnexik](https://hamnexik.medium.com/)
 
-[<img align="center" alt="bottom.png" src="https://jeromebuisine.fr/img/others/bottom_v3.png" />]()
+[<img align="center" alt="bottom.png" src="https://jeromebuisine.fr/images/others/bottom_v4.png" />]()
 

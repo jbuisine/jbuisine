@@ -2,11 +2,11 @@
 
 #### Hi there 👋
 
-I am a PhD in IT. My research area is mainly focused on the application of machine learning on physics-based rendering images (Monte Carlo approach) including denoising, noise detection, etc..
+I am a PhD in IT. Previously Associate Professor @`LISIC` (Calais in France), now freelance @`SubAlpine.IT`.
 
 :notebook_with_decorative_cover: **Interests:**
-- :bar_chart:  -- Machine learning
-- :art:  -- Computer graphics
+- 🧠  -- Machine learning
+- 📉  -- Computer graphics
 
 :link: **Links:**
 -  [<img align="left" alt="codeSTACKr.com" width="19" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]() -- [https://jeromebuisine.fr](https://jeromebuisine.fr)
